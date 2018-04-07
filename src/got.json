@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "character": "Jon" ,
+        "photo": "./assets/images/Jon.jpg"
+    },
+    {
+        "id": 2,
+        "character": "Arya",
+        "photo": "./assets/images/Arya.jpg"
+    },
+    {
+        "id": 3,
+        "character": "Bran",
+        "photo": "./assets/images/Bran.jpg"
+    },
+    {
+        "id": 4,
+        "character": "Cersei",
+        "photo": "./assets/images/Cersei.jpg"
+    },
+    {
+        "id": 5,
+        "character": "Danaerys",
+        "photo": "./assets/images/Danaerys.jpeg"
+    },
+    {
+        "id": 6,
+        "character": "Drogon",
+        "photo": "./assets/images/Drogon.jpg"
+    },
+    {
+        "id": 7,
+        "character": "Jaime",
+        "photo": "./assets/images/Jaime.png"
+    },
+    {
+        "id": 8,
+        "character": "Rhaegal",
+        "photo": "./assets/images/Rhaegal.png"
+    },
+    {
+        "id": 9,
+        "character": "Robb",
+        "photo": "./assets/images/Robb.jpg"
+    },
+    {
+        "id": 10,
+        "character": "Sansa",
+        "photo": "./assets/images/Sansa.jpg"
+    },
+    {
+        "id": 11,
+        "character": "Tyrion",
+        "photo": "./assets/images/Tyrion.jpg"
+    },
+    {
+        "id": 12,
+        "character": "Viserion",
+        "photo": "./assets/images/Viserion.jpg"
+    },
+    {
+        "id": 13,
+        "character": "Ghost",
+        "photo": "./assets/images/Ghost.jpg"
+    },
+    {
+        "id": 14,
+        "character": "Lady",
+        "photo": "./assets/images/Lady.jpg"
+    },
+    {
+        "id": 15,
+        "character": "GreyWind",
+        "photo": "./assets/images/GreyWind.jpg"
+    },
+    {
+        "id": 16,
+        "character": "Summer",
+        "photo": "./assets/images/Summer.jpg"
+    },
+    {
+        "id": 17,
+        "character": "Shaggydog",
+        "photo": "./assets/images/Shaggydog.jpg"
+    },
+    {
+        "id": 18,
+        "character": "Nymeria",
+        "photo": "./assets/images/Nymeria.jpg"
+    }
+]

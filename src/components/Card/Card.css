@@ -1,0 +1,11 @@
+.cardImg {
+    width: 200px;
+    height: 180px;
+}
+
+.cardDiv {
+    display: grid;
+    grid-gap: 20px 20px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
